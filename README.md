@@ -1,6 +1,7 @@
-Source Jupiter file to refer for all executions and graphs:**rotten_tomatoes.ipynb**
+Source Jupiter file to refer for all executions and graphs:
+rotten_tomatoes.ipynb
 
-************************Summary of findings********************************
+*********************Summary of findings********************
 Objective was to predict the tomatometer ratings of Rotten Tomatoes website
 Eventually the goal could be to predict the box office outcome of movies
 
