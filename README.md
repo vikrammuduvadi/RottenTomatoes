@@ -1,5 +1,5 @@
 Source Jupiter file to refer for all executions and graphs:
-rotten_tomatoes.ipynb
+[rotten_tomatoes.ipynb](https://github.com/vikrammuduvadi/RottenTomatoes/blob/main/rotten_tomatoes.ipynb)
 
 *********************Summary of findings********************
 Objective was to predict the tomatometer ratings of Rotten Tomatoes website
